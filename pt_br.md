@@ -14,7 +14,7 @@
 The premier community token and symbol of the Solana ecosystem.
 Join us and let us be your guide in the crypto world!
 
-O primeiro token comunitário e símbolo do ecosistema Solana.
+O primeiro token comunitário e símbolo do ecossistema Solana.
 Junte-se a nós e deixe-nos guiá-lo no mundo crypto!
 
 #### HOW TO BUY | -- COMO COMPRAR
@@ -30,16 +30,16 @@ It’s community-owned and fun!
 
 Inspired by Sam Bankman-Fried and Anatoly Yakovenko, walking in Dogecoin’s pawsteps.
 
-Apesar de ter sido originalmente lançada como um meme, SAMO evoluiu para se tornar o mascote e embaixador da Solana. Ajudando a trazer novas pessoas para Solana, 
-construindo novos e emocionantes  soluções para o ecosistema, somente o cachorro mais bonito poderia fazê-lo.
+Apesar de ter sido originalmente lançada como uma moeda meme, SAMO evoluiu para se tornar o mascote e embaixador da Solana. Ajudando a trazer novas pessoas para Solana, 
+construindo novos e emocionantes soluções para o ecossistema, somente o cachorro mais bonito poderia fazê-lo.
 
-O Samoeida ou самоед é uma raça de cães com origens na Europa Oriental, o mesmo que o amado co-fundador da Solana Anatoly Yakovenko!
+O Samoieda ou самоед é uma raça de cães com origens na Europa Oriental, o mesmo que o amado co-fundador da Solana Anatoly Yakovenko!
 
-Ele não apenas é o cachorro mais adorável de qualquer blockchain, mas ele também possui o nome de uma das figuras mais proeminentes do ecosistema Solana: Sam Bankman-Fried, CEO da FTX, tornando-o o dogo perfeito para Solana.
+Ele não apenas é o cachorro mais adorável de qualquer blockchain, mas ele também possui o nome de uma das figuras mais proeminentes do ecossistema Solana: Sam Bankman-Fried, CEO da FTX, tornando-o o dogo perfeito para Solana.
 
 É de propriedade da comunidade e divertido
 
-Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Dogeoin.
+Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Dogecoin.
 
 ### Buy SAMO On | -- Compre SAMO em
 (Icons here……)
@@ -53,14 +53,14 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 
 1. Converta fundos para Solana (SOL) na sua corretora centralizada (Binance, Coinbase, FTX, Kraken, etc).
 2. Crie uma carteira Solana (nós recomendamos Phantom) e envie os fundos SOL para o seu endereço de carteira Phantom.
-3. Para efetuar uma conversão fácilemte, nós reocmendamos o uso de Orca, Raydium ou Step.
-4. Em qualquer site, clqiue no botão no canto superior a direita para 'Conectar' a sua carteira.
-5. Agora você pode facilemnte converter o seu SOL por SAMO. Por favor lembre-se de deixar um pouco de SOL para pagamento de taxas de transação.
-6. Parabéns, você agora é parte da familia SAMO!
+3. Para efetuar uma conversão facilmente, nós recomendamos o uso de Orca, Raydium ou Step.
+4. Em qualquer site, clique no botão no canto superior a direita para 'Conectar' a sua carteira.
+5. Agora você pode facilmente converter o seu SOL por SAMO. Por favor lembre-se de deixar um pouco de SOL para pagamento de taxas de transação.
+6. Parabéns, você agora é parte da família SAMO!
 
 
 ### Coinmetrics | -- Econometria
-### Max Supply | -- Suprimento Maximo
+### Max Supply | -- Suprimento Máximo
 14,000,000,000 $SAMO
 
 #### Burn | -- Queima
@@ -68,7 +68,7 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 64%to be burnt over 3 events
 
 2.1% foram queimados no lançamento
-64% serão queimados num perído de 3 eventos
+64% serão queimados num período de 3 eventos
 
 #### Circulating (2.89 Billion) | -- Em circulação (2.89 Bilhões)
 14.4% was distributed via free airdrop.
@@ -92,8 +92,8 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 - 13% of the max $SAMO supply airdropped to our community members.
 - First batch of $SAMO is burned (2.1%) and 1.4% of the max $SAMO supply is distributed in a meme contest.
 
---Nascimento de SAMO, a primeira moeda meme contruída na Solana.
---13% do suprimento maximo de SAMO distribuído via airdrop para membros da comunidade.
+--Nascimento de SAMO, a primeira moeda meme construída na Solana.
+--13% do suprimento máximo de SAMO distribuído via airdrop para membros da comunidade.
 --Primeira leva de SAMO foi queimada (2.1%) e 1.4% do suprimento máximo de SAMO foi distribuído em um campeonato de memes.
 
 
@@ -120,7 +120,7 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 - Continue our mission to be a community driven coin to bring fun and awareness to the Solana ecosystem.
 
 --Lançamento de NFTs SAMO com buyback e mecanismo de queima. Em colaboração com Solanart.
---Continuar nossa missão de sermos orientados à comunidade e trazer concientização e diversão para o ecosistema Solana.
+--Continuar nossa missão de sermos orientados à comunidade e trazer conscientização e diversão para o ecossistema Solana.
          
 
 #### Samo Tools | -- Ferramentas
@@ -140,7 +140,7 @@ SamoDEX is capable of providing additional trading info for any pair listed on B
 [SamoDex]
 --SamoDEX é capaz de prover informações adicionais em qualquer par listado na Bonfida.
 
-### Disclaimer | -- 면책 조항
+### Disclaimer | -- Isenção de Responsabilidade
 Disclaimer: The information provided shall not in any way constitute a recommendation as to whether you should invest in any product discussed. Samoyedcoin’s team accepts no liability for any loss occasioned to any person acting or refraining from action as a result of any material provided or published. Samoyedcoin is not a security as per US financial regulation, Europe, UK, Canada, or any other regulation. Samoyedcoin’s team, developers, and other stakeholders created this as a fun community token only. The ownership of $SAMO coin does not give any right of return, vote, management, or any other right.
 
---Isenção de Responsabilidade: As informações providas não deverão em qualquer ciscunstância constituir a recomendação de se você deve ou não investir em nenhum produto discutido. O time Samoyedcoin não aceita responsabilidade por nenhuma perda ocasionada por qualquer pessoa atuando ou abstendo-se de agir em qualquer material provido ou publicado. Samoyedcoin não é uma segurança como visto pela Regulação Financeira dos Estados Unidos, Europa, Reiino Unido, Canada ou qualquer outra regulação. O Time Samoyedcoin, desenvolvedores e outros stakeholders criaram isso como uma comunidade recreativa apenas. A propriedade de SAMO não lhe atribui nenhum direito ou voto ou gestão ou qualquer outro direito.
+--Isenção de Responsabilidade: As informações providas não deverão em qualquer circunstância constituir a recomendação de se você deve ou não investir em nenhum produto discutido. O time Samoyedcoin não aceita responsabilidade por nenhuma perda ocasionada por qualquer pessoa atuando ou abstendo-se de agir em qualquer material provido ou publicado. Samoyedcoin não é uma segurança como visto pela Regulação Financeira dos Estados Unidos, Europa, Reino Unido, Canada ou qualquer outra regulação. O Time Samoyedcoin, desenvolvedores e outros investidores criaram isso como uma comunidade recreativa apenas. A propriedade de SAMO não lhe atribui nenhum direito ou voto ou gestão ou qualquer outro direito.
