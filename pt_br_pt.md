@@ -3,19 +3,19 @@
 ## Navigation | -- Navegação
 ### HOW TO BUY | -- COMO COMPRAR
 ### COINMETRICS | -- ECONOMETRIA
-### ROADMAP | -- ROADMAP
-### SAMO TOOLS | -- FERRAMENTAS
+### ROADMAP | -- ROTEIRO
+### SAMO TOOLS | -- FERRAMENTAS SAMO
 ### SOCIAL | -- SOCIAL
 
 
 ## Body
 
-### Solana's Cutest Ambassador! | -- Embaixador mais fofo da Solana!
+### Solana's Cutest Ambassador! | -- Representante mais fofo da Solana!
 The premier community token and symbol of the Solana ecosystem.
 Join us and let us be your guide in the crypto world!
 
 O primeiro token comunitário e símbolo do ecossistema Solana.
-Junte-se a nós e deixe-nos guiá-lo no mundo crypto!
+Junte-se a nós e deixe-nos guiá-lo pelo mundo crypto!
 
 #### HOW TO BUY | -- COMO COMPRAR
 ---
@@ -30,14 +30,13 @@ It’s community-owned and fun!
 
 Inspired by Sam Bankman-Fried and Anatoly Yakovenko, walking in Dogecoin’s pawsteps.
 
-Apesar de ter sido originalmente lançada como uma moeda meme, SAMO evoluiu para se tornar o mascote e embaixador da Solana. Ajudando a trazer novas pessoas para Solana, 
-construindo novos e emocionantes soluções para o ecossistema, somente o cachorro mais bonito poderia fazê-lo.
+Apesar de ter sido originalmente lançada como uma moeda meme, SAMO evoluiu para se tornar a mascote e representante da Solana. Ajudando a trazer novas pessoas para Solana, construindo novas e emocionantes soluções para o ecossistema, somente o cachorro mais fofo poderia fazê-lo.
 
-O Samoieda ou самоед é uma raça de cães com origens na Europa Oriental, o mesmo que o amado co-fundador da Solana Anatoly Yakovenko!
+O Samoiedo ou самоед é uma raça de cães com origem na Europa do Leste, tal como, o amado co-fundador da Solana Anatoly Yakovenko!
 
-Ele não apenas é o cachorro mais adorável de qualquer blockchain, mas ele também possui o nome de uma das figuras mais proeminentes do ecossistema Solana: Sam Bankman-Fried, CEO da FTX, tornando-o o dogo perfeito para Solana.
+Ele não é apenas o cachorro mais adorável em qualquer blockchain, mas também possui o nome de uma das figuras mais proeminentes no ecossistema Solana: Sam Bankman-Fried, CEO da FTX, tornando-o o dogo perfeito para Solana.
 
-É de propriedade da comunidade e divertido
+O SAMO é propriedade da comunidade e é divertido.
 
 Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Dogecoin.
 
@@ -53,8 +52,8 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 
 1. Converta fundos para Solana (SOL) na sua corretora centralizada (Binance, Coinbase, FTX, Kraken, etc).
 2. Crie uma carteira Solana (nós recomendamos Phantom) e envie os fundos SOL para o seu endereço de carteira Phantom.
-3. Para efetuar uma conversão facilmente, nós recomendamos o uso de Orca, Raydium ou Step.
-4. Em qualquer site, clique no botão no canto superior a direita para 'Conectar' a sua carteira.
+3. Para efetuar uma conversão facil, nós recomendamos o uso de Orca, Raydium ou Step.
+4. Em qualquer site, clique no botão no canto superior direito  para 'Conectar' a sua carteira.
 5. Agora você pode facilmente converter o seu SOL por SAMO. Por favor lembre-se de deixar um pouco de SOL para pagamento de taxas de transação.
 6. Parabéns, você agora é parte da família SAMO!
 
@@ -83,7 +82,7 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 3.9% Core team
 
 10% para marketing e crescimento
-3.9% Time principal
+3.9% equipe principal
 
 
 ### Roadmap | -- Roadmap
@@ -123,9 +122,9 @@ Inspirado por Sam Bankman-Fried e Anatoly Yakovenko, seguindo as pegadas da Doge
 --Continuar nossa missão de sermos orientados à comunidade e trazer conscientização e diversão para o ecossistema Solana.
          
 
-#### Samo Tools | -- Ferramentas
+#### Samo Tools | -- Ferramentas SAMO
 The SAMO team is working hard to put tools at your disposal.
---O time de desenvolvedores SAMO está trabalhando duro para trazer ferramentas à sua disposição.
+--A equipe de desenvolvedores SAMO está a trabalhar duro para trazer ferramentas à sua disposição.
 
 #### Samo Tips | -- Gorjetas SAMO
 It will generate a HTML embed code you can use to setup a tipping portal of your own - TIPS Samoyedcoid(링크)
@@ -143,4 +142,4 @@ SamoDEX is capable of providing additional trading info for any pair listed on B
 ### Disclaimer | -- Isenção de Responsabilidade
 Disclaimer: The information provided shall not in any way constitute a recommendation as to whether you should invest in any product discussed. Samoyedcoin’s team accepts no liability for any loss occasioned to any person acting or refraining from action as a result of any material provided or published. Samoyedcoin is not a security as per US financial regulation, Europe, UK, Canada, or any other regulation. Samoyedcoin’s team, developers, and other stakeholders created this as a fun community token only. The ownership of $SAMO coin does not give any right of return, vote, management, or any other right.
 
---Isenção de Responsabilidade: As informações providas não deverão em qualquer circunstância constituir a recomendação de se você deve ou não investir em nenhum produto discutido. O time Samoyedcoin não aceita responsabilidade por nenhuma perda ocasionada por qualquer pessoa atuando ou abstendo-se de agir em qualquer material provido ou publicado. Samoyedcoin não é uma segurança como visto pela Regulação Financeira dos Estados Unidos, Europa, Reino Unido, Canada ou qualquer outra regulação. O Time Samoyedcoin, desenvolvedores e outros investidores criaram isso como uma comunidade recreativa apenas. A propriedade de SAMO não lhe atribui nenhum direito ou voto ou gestão ou qualquer outro direito.
+--Isenção de Responsabilidade: As informações providas não deverão em qualquer circunstância constituir uma recomendação de se você deve ou não investir em algum produto discutido. A equipe Samoyedcoin não aceita responsabilidade por nenhuma perda ocasionada por qualquer pessoa atuando ou abstendo-se de agir em qualquer material provido ou publicado. Samoyedcoin não é uma segurança como visto pela Regulação Financeira dos Estados Unidos, Europa, Reino Unido, Canada ou qualquer outra regulação. A equipe Samoyedcoin, desenvolvedores e outros investidores criaram isto apenas como uma comunidade recreativa. A propriedade de SAMO não lhe atribui nenhum direito de retorno, voto, gestão ou qualquer outro direito.
