@@ -19,7 +19,7 @@ Junte-se a nós e deixe-nos guiá-lo no mundo crypto!
 
 #### HOW TO BUY | -- COMO COMPRAR
 ---
-### The Samoyedcoin Project | -- 사모예드 코인 프로젝트
+### The Samoyedcoin Project | -- O Projeto Samoyedcoin
 Even though it was originally released as a memecoin, SAMO has evolved to become Solana’s mascot and ambassador. Helping to onboard new people to Solana, building new and exciting solutions for the ecosystem, the cutest dog can do it all.
 
 The samoyed or самоед is a breed of dog originating from Eastern Europe, same as Solana’s beloved cofounder Anatoly Yakovenko!
